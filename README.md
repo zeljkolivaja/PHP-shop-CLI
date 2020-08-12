@@ -8,7 +8,7 @@ Shop is a small PHP CLI application running in memory.
 
 
 ```sh
-    execute the following command: php Shop
+    execute the following command: php shop.php
 ```
 
 
